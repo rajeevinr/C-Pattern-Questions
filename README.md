@@ -1,9 +1,9 @@
 # Programming-Pattern-Questions
 
 ## 1. Half Pyramid Number Variation Patter
-0
-01
-012
-0123
-01234
-012345
+0<br/>
+01<br/>
+012<br/>
+0123<br/>
+01234<br/>
+012345<br/>
