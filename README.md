@@ -1,9 +1,8 @@
 # Programming-Pattern-Questions
 
-## 1. Half Pyramid Number Variation Patter
-0<br/>
-01<br/>
-012<br/>
-0123<br/>
-01234<br/>
-012345<br/>
+## 1. [Half Pyramid Number Variation Pattern](https://github.com/Abhinav-6/C-Pattern-Questions/blob/main/halfPrymidNumber.c)
+1<br/>
+12<br/>
+123<br/>
+1234<br/>
+12345<br/>
