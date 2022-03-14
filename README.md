@@ -17,3 +17,21 @@
 21
 1
 ```
+
+### 3. [Half Pyramid Aestrik Variation](./codes/reverseHalfPyramidNumber.c)
+```
+*
+**
+***
+****
+*****
+```
+
+### 4. [Inverse Half Pyramid Aestrik Variation](./codes/inverseHalfPyramidAestrik.c)
+```
+*****
+****
+***
+**
+*
+```
